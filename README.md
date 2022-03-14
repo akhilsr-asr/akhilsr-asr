@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @akhilsr-asr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Akhil S R
+- 👀 I’m interested in full stack web developement and data engineering
+<!-- - 🌱  -->
+- 💞️ I’m looking to collaborate on data engineering projects
+- 📫 Reach me at srakhil97@gmail.com
 
 <!---
 akhilsr-asr/akhilsr-asr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
